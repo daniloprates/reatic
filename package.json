@@ -1,6 +1,6 @@
 {
   "name": "reatic",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha",
   "description": "React Static Website",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daniloprates/reatic.git"
+    "url": "git+https://github.com/reatic/reatic.git"
   },
   "author": "Danilo Prates <daniloprates@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/daniloprates/reatic/issues"
+    "url": "https://github.com/reatic/reatic/issues"
   },
-  "homepage": "https://github.com/daniloprates/reatic#readme"
+  "homepage": "https://github.com/reatic/reatic#readme"
 }
