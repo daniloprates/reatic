@@ -1,0 +1,2 @@
+# reatic
+Static React
