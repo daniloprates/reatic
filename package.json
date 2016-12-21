@@ -1,6 +1,6 @@
 {
   "name": "reatic",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0-alpha.1",
   "description": "React Static Website",
   "main": "index.js",
   "scripts": {
