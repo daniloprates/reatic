@@ -1,0 +1,19 @@
+{
+  "name": "reatic",
+  "version": "1.0.0",
+  "description": "React Static Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniloprates/reatic.git"
+  },
+  "author": "Danilo Prates <daniloprates@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniloprates/reatic/issues"
+  },
+  "homepage": "https://github.com/daniloprates/reatic#readme"
+}
